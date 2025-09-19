@@ -1,0 +1,12 @@
+git config --global user.email "rohan@gmail.com"
+git config --global user.name "rohan-9513"
+
+hhtps - we need to type user_name and password every time - not recommneded for every day use
+
+add ssh key to github
+
+ssh -
+    public - upload to github
+    private
+
+regularly used commands
